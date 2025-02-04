@@ -1,0 +1,11 @@
+# 忽略 `__pycache__`
+__pycache__/
+*.pyc
+
+# 忽略 `output` 目录（除非你想上传示例字幕）
+output/
+
+# 忽略 `videos` 目录（避免上传大视频文件）
+videos/
+
+
