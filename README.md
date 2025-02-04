@@ -1,6 +1,6 @@
 # Auto-Subtitle-Generator
 
-为了搬运YouTube的Online causal inference讲座到B站，进而可以吃饭的时候看B站，但是字幕处理是个问题。
+为了搬运YouTube的[Online causal inference Seminar](https://www.youtube.com/@onlinecausalinferencesemin2364/videos)讲座到[B站](https://space.bilibili.com/439010560/lists)，进而可以吃饭的时候看B站，但是字幕处理是个问题。
 
 Chatgpt写完了所有代码，在我的轻薄本笔记本上一次跑通！本地部署的 `faster-whisper-tiny`只用cpu就可以做到英语自动识别的好效果，中文翻译b站已经有了，可以双语字幕。
 
