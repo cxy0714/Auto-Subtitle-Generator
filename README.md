@@ -121,11 +121,7 @@ The sentence is automatically split.
 
 ✅ 解决方法：
 
-* **手动指定本地模型路径** ，修改 `main.py`：
-
-```python
-  model = WhisperModel("C:/Users/你的用户名/.cache/huggingface/hub/models--guillaumekln--faster-whisper-tiny", compute_type="int8")
-```
+不会每次都下载，因为 faster-whisper 使用 Hugging Face 的缓存机制 来存储模型。
 
 ---
 
