@@ -18,7 +18,7 @@ faster-whisper-tiny产生的字幕过长之后的处理参考：[SubtitleSpliter
 
 另一个项目（一款基于大语言模型(LLM)的视频字幕处理助手，支持语音识别、字幕断句、优化、翻译全流程处理）：[VideoCaptioner项目](https://github.com/WEIFENG2333/VideoCaptioner)的第一部分视频转码我总是失败，不得已而让GPT重新手搓。
 
-# Auto-Subtitle-Generator（Chatgpt4o初稿，claude3.5Sonnet润色）
+# Auto-Subtitle-Generator（Chatgpt4o初稿，claude3.5Sonnet润色，Deepseek服务器繁忙）
 
 一个基于 faster-whisper 的自动视频字幕生成工具，支持批量处理视频并生成优化后的 SRT 字幕文件。
 
